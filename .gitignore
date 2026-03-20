@@ -1,8 +1,6 @@
 __pycache__/
 *.pyc
 .env
-data/raw/
-data/final/
 selenium_driver/
 scrapy_project/.scrapy/
 .venv/
